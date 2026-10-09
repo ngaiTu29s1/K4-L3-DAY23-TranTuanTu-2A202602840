@@ -1,0 +1,3 @@
+{"ts": 1791523515.1614397, "iso": "2026-10-09T05:25:15", "action": "kill", "region": "a", "mode": "netblock", "backend": "bare", "mock": true, "other_region": "b", "other_alive": true, "forced_both": false, "note": "t_outage_start \u2014 moc 0 cua RTO clock"}
+{"ts": 1791523547.4216077, "iso": "2026-10-09T05:25:47", "action": "restore", "region": "a", "method": "SIGCONT", "pid": 205917}
+{"ts": 1791523589.7121608, "iso": "2026-10-09T05:26:29", "action": "kill", "region": "a", "mode": "netblock", "backend": "bare", "mock": true, "other_region": "b", "other_alive": true, "forced_both": false, "note": "t_outage_start \u2014 moc 0 cua RTO clock"}
